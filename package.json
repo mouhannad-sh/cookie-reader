@@ -1,6 +1,6 @@
 {
   "name": "cookie_reader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A super tiny read-only cookie reader",
   "main": "src/main.js",
   "scripts": {
