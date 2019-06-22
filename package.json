@@ -1,0 +1,24 @@
+{
+  "name": "cookie_reader",
+  "version": "1.0.0",
+  "description": "A super tiny read-only cookie reader",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouhannad-sh/cookie_reader.git"
+  },
+  "keywords": [
+    "JS",
+    "Javascript",
+    "cookie"
+  ],
+  "author": "Mouhannad Alshamali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mouhannad-sh/cookie_reader/issues"
+  },
+  "homepage": "https://github.com/mouhannad-sh/cookie_reader#readme"
+}
