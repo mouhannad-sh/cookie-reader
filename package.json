@@ -1,6 +1,6 @@
 {
   "name": "cookie-reader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A super tiny zero dependency read-only cookie reader",
   "main": "dist/main.js",
   "scripts": {
