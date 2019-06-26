@@ -1,11 +1,15 @@
 {
   "name": "cookie-reader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A super tiny zero dependency read-only cookie reader",
-  "main": "dist/main.js",
+  "main": "./dist/bundle.js",
+  "module": "./dist/bundle.es.js",
   "scripts": {
     "test": "jest"
   },
+  "files": [
+    "./dist/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mouhannad-sh/cookie_reader.git"
