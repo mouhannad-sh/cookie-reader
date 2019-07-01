@@ -1,11 +1,10 @@
 {
   "name": "cookie-reader",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "A super tiny zero dependency read-only cookie reader",
   "main": "./dist/bundle.js",
-  "module": "./dist/bundle.es.js",
   "scripts": {
-    "test": "jest"
+    "build": "rollup --config"
   },
   "repository": {
     "type": "git",

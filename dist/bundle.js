@@ -20,6 +20,6 @@ class Cookie {
       return this.parse(cookie)[key];
     }
 }
-var main = new Cookie();
+var index = new Cookie();
 
-module.exports = main;
+module.exports = index;
